@@ -5482,6 +5482,38 @@
         {
           "authors" : [
             {
+              "name" : "Archie Lacoin",
+              "url" : "https:\/\/github.com\/pomdtr"
+            },
+            {
+              "name" : "LanikSJ",
+              "url" : "https:\/\/github.com\/LanikSJ"
+            }
+          ],
+          "createdAt" : "2022-04-18T08:53:46-07:00",
+          "currentDirectoryPath" : null,
+          "description" : null,
+          "filename" : "network-quality.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🌐"
+          },
+          "identifier" : "c8ccba60ea98f52ca4712bbd2ff58c26",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "inline",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : "20m",
+          "schemaVersion" : 1,
+          "title" : "Network Quality",
+          "updatedAt" : "2022-04-18T08:53:46-07:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Thiago Holanda",
               "url" : "https:\/\/twitter.com\/tholanda"
             }
@@ -6066,6 +6098,38 @@
           "updatedAt" : "2020-12-08T15:56:35+00:00"
         },
         {
+          "authors" : [
+            {
+              "name" : "Yufei Kang",
+              "url" : "kangyufei.net"
+            },
+            {
+              "name" : "LanikSJ",
+              "url" : "https:\/\/github.com\/LanikSJ"
+            }
+          ],
+          "createdAt" : "2022-04-20T11:03:29-07:00",
+          "currentDirectoryPath" : null,
+          "description" : "Save Image From Clipboard",
+          "filename" : "save-image-from-clipboard.py",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🤖"
+          },
+          "identifier" : "9b9abd66aac59663e406febe5530ed84",
+          "isTemplate" : false,
+          "language" : "python",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Clipboard",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Save Image From Clipboard",
+          "updatedAt" : "2022-04-20T11:03:29-07:00"
+        },
+        {
           "authors" : null,
           "createdAt" : "2020-09-30T12:56:01+01:00",
           "currentDirectoryPath" : null,
@@ -6626,7 +6690,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Audio devices",
-              "updatedAt" : "2021-04-16T23:17:04+03:00"
+              "updatedAt" : "2022-04-24T19:49:41+08:00"
             },
             {
               "authors" : [
@@ -6654,7 +6718,7 @@
               "refreshTime" : "10m",
               "schemaVersion" : 1,
               "title" : "Audio devices",
-              "updatedAt" : "2021-04-19T18:23:32+03:00"
+              "updatedAt" : "2022-04-24T19:49:41+08:00"
             },
             {
               "authors" : [
@@ -6682,7 +6746,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Set audio device",
-              "updatedAt" : "2021-04-19T18:26:53+03:00"
+              "updatedAt" : "2022-04-24T19:49:41+08:00"
             },
             {
               "authors" : [
@@ -7208,6 +7272,34 @@
           "schemaVersion" : 1,
           "title" : "Flutter Create Project",
           "updatedAt" : "2021-08-17T16:40:16+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Vishal Telangre",
+              "url" : "https:\/\/github.com\/vishaltelangre"
+            }
+          ],
+          "createdAt" : "2020-11-30T21:05:51+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Copies full path of the currently focused Finder window",
+          "filename" : "copy-focused-finder-window-path.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📁"
+          },
+          "identifier" : "6e8e65e874ff14cff3f49c902d7481b9",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Developer Utils",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Copy Focused Finder Window Path",
+          "updatedAt" : "2022-04-24T12:29:22+05:30"
         },
         {
           "authors" : [
@@ -8922,6 +9014,34 @@
               "schemaVersion" : 1,
               "title" : "Restart Service",
               "updatedAt" : "2021-09-07T10:00:18+00:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "StevenRCE0",
+                  "url" : "https:\/\/github.com\/StevenRCE0"
+                }
+              ],
+              "createdAt" : "2022-04-06T00:01:05+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Uninstalls an Specified Application Using Homebrew",
+              "filename" : "brew-uninstall-application.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "🍺"
+              },
+              "identifier" : "90405cfd617b86b933e641e182bb12c9",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "compact",
+              "needsConfirmation" : null,
+              "packageName" : "Brew",
+              "path" : "developer-utils\/brew\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Uninstall",
+              "updatedAt" : "2022-04-06T00:01:05+08:00"
             },
             {
               "authors" : [
@@ -13520,6 +13640,40 @@
           ]
         },
         {
+          "name" : "Terminal Translate",
+          "path" : "terminal-translate",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Fatpandac",
+                  "url" : "https:\/\/github.com\/Fatpandac"
+                }
+              ],
+              "createdAt" : "2022-04-04T02:34:41+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Translate word or sentence.",
+              "filename" : "translate.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "📖"
+              },
+              "identifier" : "8cd0465bb037880e1fcc57beb8ffea49",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "fullOutput",
+              "needsConfirmation" : null,
+              "packageName" : "Terminal Translate",
+              "path" : "apps\/terminal-translate\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Translate",
+              "updatedAt" : "2022-04-04T02:34:41+08:00"
+            }
+          ]
+        },
+        {
           "name" : "Playground",
           "path" : "playground",
           "readme" : "apps\/playground\/README.md",
@@ -14126,40 +14280,6 @@
               "schemaVersion" : 1,
               "title" : "Tunnelblick: Connect All",
               "updatedAt" : "2021-03-14T17:37:20+01:00"
-            }
-          ]
-        },
-        {
-          "name" : "Script Kit",
-          "path" : "script-kit",
-          "scriptCommands" : [
-            {
-              "authors" : [
-                {
-                  "name" : "Achille Lacoin",
-                  "url" : "https:\/\/github.com\/pomdtr"
-                }
-              ],
-              "createdAt" : "2021-07-25T17:09:15+02:00",
-              "currentDirectoryPath" : null,
-              "description" : "Convert all Script Kit scripts to Raycast Script Commands",
-              "filename" : "import-scripts-from-script-kit.py",
-              "hasArguments" : false,
-              "icon" : {
-                "dark" : null,
-                "light" : ".\/images\/kit_logo.png"
-              },
-              "identifier" : "b5d0da0e719c56fab014833b572a9ce5",
-              "isTemplate" : false,
-              "language" : "python",
-              "mode" : "fullOutput",
-              "needsConfirmation" : null,
-              "packageName" : "Script Kit",
-              "path" : "apps\/script-kit\/",
-              "refreshTime" : null,
-              "schemaVersion" : 1,
-              "title" : "Import scripts from Script Kit",
-              "updatedAt" : "2021-08-03T16:01:36+02:00"
             }
           ]
         },
@@ -15990,6 +16110,40 @@
               "schemaVersion" : 1,
               "title" : "Open Safari URL in Chrome",
               "updatedAt" : "2021-08-20T09:04:07-05:00"
+            }
+          ]
+        },
+        {
+          "name" : "Raycast",
+          "path" : "raycast",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Fatpandac",
+                  "url" : "https:\/\/github.com\/Fatpandac"
+                }
+              ],
+              "createdAt" : "2022-05-19T01:47:07+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Set Confetti to run for a number of times and during intervals",
+              "filename" : "celebrate.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "🎉"
+              },
+              "identifier" : "c9ab115f10c7edb801658fe3f94c2886",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Raycast",
+              "path" : "apps\/raycast\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Celebrate",
+              "updatedAt" : "2022-05-19T10:24:28+08:00"
             }
           ]
         },
@@ -20633,14 +20787,14 @@
   ],
   "languages" : [
     {
-      "displayName" : "Bash",
-      "icon" : "icon-bash.png",
-      "name" : "bash"
-    },
-    {
       "displayName" : "AppleScript",
       "icon" : "icon-applescript.png",
       "name" : "applescript"
+    },
+    {
+      "displayName" : "Python",
+      "icon" : "icon-python.png",
+      "name" : "python"
     },
     {
       "displayName" : "Node",
@@ -20648,24 +20802,24 @@
       "name" : "node"
     },
     {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
-    },
-    {
       "displayName" : "Ruby",
       "icon" : "icon-ruby.png",
       "name" : "ruby"
     },
     {
-      "displayName" : "Python",
-      "icon" : "icon-python.png",
-      "name" : "python"
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
+    },
+    {
+      "displayName" : "Bash",
+      "icon" : "icon-bash.png",
+      "name" : "bash"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 719,
-  "updatedAt" : "2022-04-03T18:38:31Z"
+  "totalScriptCommands" : 724,
+  "updatedAt" : "2022-05-19T11:10:14Z"
 }
